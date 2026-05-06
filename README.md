@@ -1,4 +1,4 @@
-## **Progect "BookStore App"**
+## **Progect "Online Bookstore Backend Platform"**
 
 Welcome to the *scalable and modular RESTful API** — **BookStore  Backend**.  
 This project is built using modern technologies such as **Java**, **Spring Boot**, **Spring Security**, **Spring Data JPA**, **Swagger**, **Docker**, and more.
